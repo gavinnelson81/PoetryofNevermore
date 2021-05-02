@@ -1,0 +1,51 @@
+@charset "UTF-8";
+body {
+    background-color: Grey;
+    margin-left: 15 px;
+}
+
+body header {
+    margin-left: 15%;
+    width: 70%;
+    text-align: center;
+}
+
+body section {
+    width: 90%;
+    margin-left: 4%;
+    background-color: #CD7F32;
+    text-align: center;
+}
+
+body p {
+    text-align: center;
+}
+
+body section footer {
+    font-size: 12px;
+}
+
+body nav {
+    width: 90%;
+    margin-left: 4%;
+    background-color: #CD7F32;
+}
+
+a   {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    list-style: none;
+}
+
+a:hover:not(.active)  {
+    background-color: #D1A260;
+    color: Black;
+    text-decoration: none;
+    list-style: none;
+}body p {
+    width: 90%;
+    margin-left: 5%;
+}
