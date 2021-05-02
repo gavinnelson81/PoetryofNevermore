@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Index</title>
 <link href="Styles.css" rel="stylesheet" type="text/css">
 </head>
 
